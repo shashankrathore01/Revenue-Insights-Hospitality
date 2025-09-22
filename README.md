@@ -18,4 +18,4 @@ The Power BI dashboard provides KPIs like:
 Helped simulate revenue optimization strategies by identifying high-performing segments and peak booking periods.
 
 ## Dashboard Preview
-
+![Dashboard Screenshot](images/dashboard.png)
