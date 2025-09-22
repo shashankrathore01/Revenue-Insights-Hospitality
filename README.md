@@ -1,19 +1,21 @@
 # Revenue-Insights-Hospitality
 
 ## Project Overview
-This project analyzes hotel booking and revenue data to generate insights for management in the hospitality domain.  
+This project focuses on genrating revenue insights for a hotel in hospitality domain, it helps the management to understad the revenue trends, improve and identify the growth opportunities.  
 The Power BI dashboard provides KPIs like:
-- Revenue by room type
-- Occupancy vs revenue correlation
-- Customer segmentation
-- Seasonal trends and revenue forecasting
+- Revenue per Available room (RevPAR)
+- Occupancy(%)
+- Average Daily Rate (ADR)
+- Total Revenue
+- Daily Sellable Room Nights
+- Realization
 
 ## Tools
-- Power BI, DAX
-- Excel / SQL (data preprocessing)
+- Power BI, DAX, Power Query
+- Excel (data preprocessing)
 
 ## Outcomes
 Helped simulate revenue optimization strategies by identifying high-performing segments and peak booking periods.
 
 ## Dashboard Preview
-(Insert Screenshot)
+
